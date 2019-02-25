@@ -11,6 +11,9 @@ module.exports = {
   get createMaterialTopTabNavigator() {
     return require('./navigators/createMaterialTopTabNavigator').default;
   },
+  get createMaterialBottomTabNavigator() {
+    return require('./navigators/createMaterialBottomTabNavigator').default;
+  },
 
   /**
    * Views
