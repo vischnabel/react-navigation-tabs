@@ -1,13 +1,14 @@
 {
   "name": "react-navigation-tabs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tab Navigation components for React Navigation",
   "main": "dist/index.js",
   "files": [
     "dist/",
     "src/",
     "createBottomTabNavigator.js",
-    "createMaterialTopTabNavigator.js"
+    "createMaterialTopTabNavigator.js",
+    "createMaterialBottomTabNavigator.js"
   ],
   "react-native": "src/index.js",
   "scripts": {
