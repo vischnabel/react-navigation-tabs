@@ -43,7 +43,7 @@
     "hoist-non-react-statics": "^2.5.0",
     "prop-types": "^15.6.1",
     "react-lifecycles-compat": "^3.0.4",
-    "react-native-tab-view": "^1.0.0"
+    "react-native-tab-view": "git://github.com/vischnabel/react-native-tab-view.git"
   },
   "devDependencies": {
     "@expo/vector-icons": "^6.2.0",
